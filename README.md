@@ -1,4 +1,4 @@
-# Mentorness-Projects
+# Mentorness Projects
 
 
 ## SQL Project: [Pizza Sales Analysis](https://github.com/Ananya-Foujdar05/Pizza-sales-Analysis2)
